@@ -6,6 +6,9 @@
 /.editorconfig
 /.gitattributes
 /.gitignore
+/404.html
+/404.jpeg
+/404.md
 /AUTHORS
 /AUTOMATE2001.yml
 /CITATION.cff
@@ -34,6 +37,7 @@
 /TreeWorldLogo.jpeg
 /TreeWorldPoster.png
 /TreeWorld_Wide1.jpeg
+/_config.yml
 /desktop.ini
 /makefile.mk
 /pull_request_template.md
